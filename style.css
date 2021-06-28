@@ -42,6 +42,7 @@ button {
     transition: .25s ease-in-out;
 }
 
+
 input.search-bar {
     border: none;
     border: none;
@@ -54,4 +55,8 @@ input.search-bar {
     font-family: inherit;
     width: calc(100% - 110px);
     
+}
+
+.description{
+    text-transform: capitalize;
 }
